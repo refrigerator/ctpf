@@ -1,2 +1,2 @@
-# ctpf
-collaborative topic poisson factorisation in python (gopalan, charlin, blei 2014)
+# Collaborative Topic Poisson Factorisation
+Python implementation of CTPF - http://www.cs.toronto.edu/~lcharlin/papers/GopalanCharlinBlei_nips14.pdf
